@@ -49,5 +49,5 @@ This project was developed for the Smart India Hackathon with the primary goal o
 ## Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-For any query's [rragavan2004@gmail.com].
+For any query's [bharathimuniraj003@gmail.com].
 ---
